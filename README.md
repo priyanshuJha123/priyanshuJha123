@@ -3,7 +3,7 @@
 <div style="display:flex; justify-content:center; align-items:center;">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Gif Image">
 </div>
-<img style="width:100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img style="width:100vw" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
