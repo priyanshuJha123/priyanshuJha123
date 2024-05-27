@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Jha</h1>
 <h3 align="center">A passionate CSE Student</h3>
-
+<div style="display:flex,justify-content:center , align-items: center"> <img src"https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-jha-102894227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-jha-102894227" height="30" width="40" /></a>
